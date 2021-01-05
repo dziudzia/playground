@@ -2,19 +2,22 @@
 layout: page
 ---
 
-### From Log Events to Process Indicators
+### Digitales Archiv & Kanon
 
-The International Association for the Evaluation of Educational Achievement (IEA), together with the Leibniz Institute for Research and Information in Education (DIPF) and the Centre for International Student Assessment (ZIB), hosted a three-day workshop on analyzing log file and process data from large-scale international assessments in education. The event took place as an interactive webinar and online video conference on June 17th - 19th, 2020.
+In den letzten Jahren ist der digitale Bestand massiv angewachsen, Objekte von Bibliotheken, Staatsarchiven und Museen wurden und werden zunehmend digitalisiert. Das daraus resultierende digitale Archiv ist in sich plural: jede digitalisierende Institution eröffnet gewissermaßen ein eigenes digitales Archiv für den jeweiligen Bestand und sorgt für dessen Auffindbarkeit. Nicht nur die historisch arbeitenden Wissenschaften profitieren gerade im Augenblick vom digitalen Fundus, wo Bibliotheken beschränkt zugänglich sind und mancher physische Bestand aufgrund von Hygiene- und Reisebestimmungen unerreichbar ist.
 
-The workshop was the second event of a growing community dealing with process data from large-scale assessments, after a [first process data conference and workshop in Dublin](http://www.erc.ie/2019/03/15/process-data-conference-and-workshop-dublin-may-2019/) in May 2019 hosted by Educational Research Centre (Dublin, Ireland; ERC) and Educational Testing Service (Princeton, NJ, USA; ETS). 
+Das Individuum sieht sich mittlerweile im Digitalen einer in den jeweiligen pluralisierten Archiven enthaltenen Fülle gegenüber, die in einem Menschenleben nicht gesichtet werden kann. Das wird einerseits als willkommene, demokratisierende Transparenz bejubelt, nichts sei mehr versteckt hinter physischen Barrieren, das kulturelle Gedächtnis werde individualisiert (Abigail De Kosnik), andererseits wird jedoch von einer zu beobachtenden Re-Konsolidierung eines kleinen Kernkanons gesprochen (Stefan Neuhaus), denn der neuen Fülle gegenüber scheinen wir bisweilen mit der Rückkehr zum Altbekannten und Vertrauten zu begegnen. Die frühe Kanondebatte hat in den 1970er Jahren die grundlegende Frage gestellt, wessen Werke eigentlich publiziert, rezensiert und damit potentiell kanonisiert werden. Aktualisiert muss diese Frage heute lauten, wessen Werke und welche Objekte in welcher Form wie digitalisiert werden, die ‚Kanonfrage 2.0‘.
 
-The [first two days](frankfurt2020/) of the workshop in 2020 focused on managing, preparing, analyzing, and sharing insights from process data. On the third day, the focus was on practical, hands-on training using log-file data from the most recent cycle of the IEA’s Trends in International Mathematics and Science Study, TIMSS 2019.
+Das virtuelle Kolloquium, das am 10.3.2021 pandemiebedingt virtuell stattfinden wird, zielt auf Austausch und versteht sich als Einladung, diese Frage aus unterschiedlichen Blickwinkeln zu reflektieren, um sich auf interdisziplinärer Ebene der Problematik zu stellen. Es geht im Rahmen der Veranstaltung darum, Prozesse beschreibbar und transparent zu machen, zu reflektieren und zu überlegen, was genau wie erfolgt, welche Kriterien bei der Auswahl für die Digitalisierung und der Präsentation der Digitalisate eine Rolle spielen und welche Leerstellen und Verwerfungen dies womöglich – in eher langfristiger und übergreifender Perspektive betrachtet – produziert. 
+Dabei sollen unter anderem folgende Fragen adressiert werden:
 
-Since the number of places for the workshop was limited, recorded sessions and slides are provided on [this page](frankfurt2020/). 
+* Was genau wird digitalisiert und was bleibt zunächst – oder gar für sehr lange Zeit – aus welchen Gründen digitale Leerstelle? Wie ist dieser Prozess strukturiert, wie wird priorisiert und entschieden? Welche Kriterien werden dabei in Anschlag gebracht?
+* Welchen Effekt hat die (nicht-)erfolgende Digitalisierung etwa für die Werke ohnehin eher vergessener, marginalisierter oder aus dem Kanon ausgeschlossener Autor_innen, Künstler, Epochen, Gattungen, bzw. Objekte allgemein? Wird ihre Kenntnis überhaupt erst durch Digitalisierung ermöglicht und befördert? Oder drohen sie umso stärker vergessen oder marginalisiert zu werden, wenn Digitalisierung ausbleibt? Welche Rolle spielt die Forschungsförderung dabei?
+* Welche Digitalisate sind gut auffindbar und sichtbar, unter welcher Lizenz und für wen unbeschränkt verfügbar? Gibt es statt der physischen Barrieren nun neue, digitale?
+* Welche Konsequenzen hat die Digitalisierung für den ‚klassischen Kanon‘, in welche Beziehung tritt er zum digitalen Archiv? Wird er durch die Digitalisierung konsolidiert oder hinterfragt?
 
-In case of questions or comments, feel free to contact the organizers of the 2020 workshop: 
+Organisiert wird das Kolloquium von Dr. Corinna Dziudzia (KU Eichstätt-Ingolstadt) und Dr. Mark Hall (Open University, UK).
 
-*[Frank Goldhammer](frankfurt2020/speakers/#frank-goldhammer)*, *[Heiko Sibberns](frankfurt2020/speakers/#heiko-sibberns)*, and *[Ulf Kroehne](frankfurt2020/speakers/#ulf-kroehne)*.
 
 
  
