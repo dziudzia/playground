@@ -6,20 +6,20 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: "Beyond results: Paving the way for the use of process data"
-description: "Workshop on analyzing log file and process data from international large-scale assessments in education - IEA / DIPF / ZIB  - 17-19 June 2020"
-github_username: kroehne
+title: "Digitales Archiv und Kanon"
+description: "Workshop zum digitalen Archiv und Kanon, 10. März, 2021."
+github_username: dziudzia
 
 # Email and twitter are optional:
 email:  
 twitter_username:  
 
 # OPTIONAL: override baseurl and url if using a custom domain
-url: "https://beyond-results.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://digitales-archiv-und-kanon.de" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "BeyondResults"
+github_repo: ""
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -31,8 +31,7 @@ google_analytics:
 # this and add the path to the pages in order as they should show up 
 header_pages: 
  - Home
- - Agenda.md
- - frankfurt2020/Frankfurt2020.md 
+ - Agenda.md 
  - About.md
 
 # Everything below here can be ignored, unless you want to change the theme entirely
