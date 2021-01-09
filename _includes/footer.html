@@ -7,7 +7,7 @@
     
   <div class="footer-col-wrapper">
       <div class="footer-col">
-        <h2 class="footer-heading"><!--{{ site.title | escape }}--></h2>
+        <h2 class="footer-heading">{{ site.title | escape }}</h2>
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
@@ -20,7 +20,7 @@
       {%- endif %}
       </div>
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+        <!--<p>{{ site.description | escape }}</p>-->
       </div>
     </div>
 
