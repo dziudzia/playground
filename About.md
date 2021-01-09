@@ -8,23 +8,23 @@ permalink: /about/
 
 ## Impressum
 
-Anbieter:
-Dr. Corinna Dziudzia 
-Katholische Universität Eichstätt-Ingolstadt
-Universitätsallee 1
-85072 Eichstätt
+Anbieter:<br/>
+Dr. Corinna Dziudzia <br/>
+Katholische Universität Eichstätt-Ingolstadt<br/>
+Universitätsallee 1<br/>
+85072 Eichstätt<br/><br/>
 
-Kontakt:
-Telefon: +49 8421/93-23185
+Kontakt:<br/>
+Telefon: +49 8421/93-23185<br/><br/>
  
-E-Mail: corinna.dziudzia@ku.de
-Website: https://www.ku.de/slf/germanistik/p-neuere-deutsche-literaturwissenschaft/dr-corinna-dziudzia
+E-Mail: corinna.dziudzia@ku.de<br/>
+Website: https://www.ku.de/slf/germanistik/p-neuere-deutsche-literaturwissenschaft/dr-corinna-dziudzia<br/><br/>
 
-Bei redaktionellen Inhalten:
+Bei redaktionellen Inhalten:<br/><br/>
 
-Verantwortlich nach § 55 Abs.2 RStV
-Dr. Corinna Dziudzia 
-Katholische Universität Eichstätt-Ingolstadt
-Universitätsallee 1
-85072 Eichstätt
+Verantwortlich nach § 55 Abs.2 RStV<br/>
+Dr. Corinna Dziudzia <br/>
+Katholische Universität Eichstätt-Ingolstadt<br/>
+Universitätsallee 1<br/>
+85072 Eichstätt<br/>
 
